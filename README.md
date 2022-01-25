@@ -1,4 +1,4 @@
-![image of my desktop](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "image of my desktop")
+![image of my desktop](https://i.imgur.com/US7K7FM.png "image of my desktop")
 # dev-environment-lab
 
 ## OS
